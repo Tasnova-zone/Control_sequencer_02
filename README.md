@@ -78,9 +78,9 @@ Single-bus design with tri-state sources: `pc_out`, `sram_rd`, `ins_reg_out_en`,
 Bus listeners/latches: `mar_in_en`, `ins_reg_in_en`, `a_in`, `b_in`, `sram_wr`.  
 _Only one driver per T-state_ to avoid contention.
 
-![Automatic Mode Control Sequencer](<img width="1041" height="582" alt="image" src="https://github.com/user-attachments/assets/ea2edd7e-48c1-4421-ab97-b63ee1bb7d6d" />
-)  
+![Automatic Mode Control Sequencer](images/fig1.png)  
 *Figure 1: Automatic mode control sequencer (fetch–decode–execute).*
+
 
 ![Manual/Loader Mode Control Sequencer](images/fig2.png)  
 *Figure 2: Manual/Loader mode with loader counter and i1/i2 phases.*
