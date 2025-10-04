@@ -40,7 +40,7 @@ Click on the Table of Contents below to directly go to the sections:
 
 You can watch the complete walkthrough and demonstration of the SAP-1 computer design in the following video:
 
-▶️ **[Watch the SAP-1 Video Tutorial](https://youtu.be/hzrf5gsNffk)**
+▶️ **[Watch the SAP-1 Video Tutorial]([https://youtu.be/hzrf5gsNffk](https://youtu.be/-9O5nkIznjI?si=oYDJKnNvZ2WQ-s4P))**
 
 ---
 
